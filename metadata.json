@@ -1,0 +1,6 @@
+{
+  "name": "Veklom Sovereign Agent Control Room",
+  "description": "State-of-the-art remote workspace and linter for the 120-Agent Veklom Task Force, featuring ArbiterOS lock simulation, TreeFrag LOD context tree compressor, and Railway-style pipeline ballots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
